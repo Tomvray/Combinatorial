@@ -1,0 +1,88 @@
+{
+    "Blocks": [
+        "Block 001",
+        "Block 002",
+        "Block 003"
+    ],
+    "Sessions": [
+        "Session 001",
+        "Session 002",
+        "Session 003",
+        "Session 004",
+        "Session 005"
+    ],
+    "Sessions_b": {
+        "Block 001": [
+            "Session 001",
+            "Session 002",
+            "Session 003"
+        ],
+        "Block 002": [
+            "Session 004"
+        ],
+        "Block 003": [
+            "Session 005"
+        ]
+    },
+    "Interpreters": [
+        "Interpreter 001",
+        "Interpreter 002",
+        "Interpreter 003",
+        "Interpreter 004",
+        "Interpreter 005"
+    ],
+    "Languages": [
+        "Dutch",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Spanish"
+    ],
+    "Languages_s": {
+        "Session 001": [
+            "English",
+            "French",
+            "Spanish"
+        ],
+        "Session 002": [
+            "German",
+            "Spanish"
+        ],
+        "Session 003": [
+            "English",
+            "Spanish"
+        ],
+        "Session 004": [
+            "French",
+            "Italian"
+        ],
+        "Session 005": [
+            "Dutch",
+            "German"
+        ]
+    },
+    "Languages_i": {
+        "Interpreter 001": [
+            "English",
+            "Spanish"
+        ],
+        "Interpreter 002": [
+            "French",
+            "Spanish"
+        ],
+        "Interpreter 003": [
+            "Dutch",
+            "German"
+        ],
+        "Interpreter 004": [
+            "Dutch",
+            "Spanish"
+        ],
+        "Interpreter 005": [
+            "French",
+            "Italian",
+            "Spanish"
+        ]
+    }
+}
