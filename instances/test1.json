@@ -1,0 +1,111 @@
+{
+    "Blocks": [
+        "Block 001",
+        "Block 002",
+        "Block 003",
+        "Block 004",
+        "Block 005",
+        "Block 006"
+    ],
+    "Sessions": [
+        "Session 001",
+        "Session 002",
+        "Session 003",
+        "Session 004",
+        "Session 005",
+        "Session 006",
+        "Session 007",
+        "Session 008"
+    ],
+    "Sessions_b": {
+        "Block 001": [
+            "Session 001",
+            "Session 002",
+            "Session 003"
+        ],
+        "Block 002": [
+            "Session 004"
+        ],
+        "Block 003": [
+            "Session 005"
+        ],
+        "Block 004": [
+            "Session 006"
+        ],
+        "Block 005": [
+            "Session 007"
+        ],
+        "Block 006": [
+            "Session 008"
+        ]
+    },
+    "Interpreters": [
+        "Interpreter 001"
+    ],
+    "Languages": [
+        "Dutch",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Spanish"
+    ],
+    "Languages_s": {
+        "Session 001": [
+            "English",
+            "French",
+            "Spanish"
+        ],
+        "Session 002": [
+            "English",
+            "Spanish"
+        ],
+        "Session 003": [
+            "English",
+            "Spanish"
+        ],
+        "Session 004": [
+            "English",
+            "Spanish"
+        ],
+        "Session 005": [
+            "English",
+            "Spanish"
+        ],
+        "Session 006": [
+            "English",
+            "Spanish"
+        ],
+        "Session 007": [
+            "English",
+            "Spanish"
+        ],
+        "Session 008": [
+            "English",
+            "Spanish"
+        ]
+    },
+    "Languages_i": {
+        "Interpreter 001": [
+            "English",
+            "Spanish"
+        ],
+        "Interpreter 002": [
+            "French",
+            "Spanish"
+        ],
+        "Interpreter 003": [
+            "Dutch",
+            "German"
+        ],
+        "Interpreter 004": [
+            "Dutch",
+            "Spanish"
+        ],
+        "Interpreter 005": [
+            "French",
+            "Italian",
+            "Spanish"
+        ]
+    }
+}
