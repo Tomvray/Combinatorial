@@ -89,23 +89,6 @@
         "Interpreter 001": [
             "English",
             "Spanish"
-        ],
-        "Interpreter 002": [
-            "French",
-            "Spanish"
-        ],
-        "Interpreter 003": [
-            "Dutch",
-            "German"
-        ],
-        "Interpreter 004": [
-            "Dutch",
-            "Spanish"
-        ],
-        "Interpreter 005": [
-            "French",
-            "Italian",
-            "Spanish"
         ]
     }
 }
